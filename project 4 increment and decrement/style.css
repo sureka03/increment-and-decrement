@@ -1,0 +1,39 @@
+body {
+    position: absolute;
+    left: 0%;
+    text-align: center;
+}
+ 
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    text-align: center;
+}
+ 
+button {
+    width: 90px;
+    height: 60px;
+    font-size: 30px;
+    background-color: rgb(32, 16, 114);
+    color: honeydew;
+}
+ 
+button:hover {
+    background-color:#050c5a;
+    color: grey;
+}
+ 
+h2 {
+    color:#0b0808;
+    margin: 0 50px;
+    font-size: 45px;
+}
+ 
+h1 {
+    font-size: 35px;
+    color: rgb(14, 132, 215);
+    text-align: center;
+    padding-left: 10%;
+}
